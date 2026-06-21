@@ -1,0 +1,6 @@
+{
+  "name": "SDUT Mechanical Engineering Academic Navigator & Smart Study Organizer",
+  "description": "An offline-first academic operating system, roadmap-navigator, knowledge base, study planner, and Pomodoro-timer designed for Mechanical Engineering (Intelligent Manufacturing) students at SDUT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
